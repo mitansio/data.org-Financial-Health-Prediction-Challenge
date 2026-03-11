@@ -41,7 +41,8 @@ Additional features may be created to improve model performance, including trans
 Several machine learning models can be trained and compared to determine the most effective approach for predicting the target variable which is RandomForestClassifier.
 
 ## 8. Evaluation Metric
-Model performance is evaluated using appropriate metrics suitable for the prediction task.
+
+The evaluation metric for this challenge is the F1 score.
 
 ## 9. Results
 The trained model generates predictions for the target variable based on the provided test dataset.
